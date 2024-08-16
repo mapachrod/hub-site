@@ -19,7 +19,7 @@ body {
     transition: background-color 0.3s, color 0.3s;
     box-sizing: border-box;
     background-color: var(--cor-primaria);
-    background-image: url("/assets/codigos1.png");
+    background-image: url("./assets/codigos1.png");
     background-blend-mode:soft-light;
 }
 
