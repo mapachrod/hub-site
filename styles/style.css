@@ -144,6 +144,7 @@ body.dark-mode {
     border: 2px solid var(--cor-terciaria);
     width: 6%;
     border-radius: 16px;
+    cursor: pointer;
 }
 #dark-mode-button:hover,.cabecalho__menu__link:hover {
     background-color: var(--cor-hover);
